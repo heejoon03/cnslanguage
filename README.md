@@ -1,5 +1,4 @@
-COS Pro 뽀개기 - 시험파헤치기편 신청자들을 위한 배움마당 URL입니다.
-로컬PC에서 아래 URL 클릭하여 수강하시기 바랍니다.
+COS Pro 뽀개기 - 샘플문제풀이편 수강하신 분들은
+로컬PC에서 아래 URL 클릭하여 학습하시기 바랍니다.
 
-*LG 배움마당 URL : 
-https://edumadang.lgstation.com
+*Youtube URL : 강의 1일전 공지 예정임
