@@ -1,4 +1,4 @@
-COS Pro 뽀개기 - 샘플문제풀이편 수강하신 분들은
+COS Pro 뽀개기 - 샘플문제풀이편(Java) 수강하신 분들은
 로컬PC에서 아래 URL 클릭하여 학습하시기 바랍니다.
 
-*Youtube URL : 강의 1일전 공지 예정임
+*Youtube URL : https://youtu.be/yEdqxTUmJMA
