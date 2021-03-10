@@ -1,3 +1,7 @@
+[COS Pro 뽀개기 - 유형별 특강 (Python 1차)]
+*Youtube URL : https://youtu.be/zAJmpES1twg
+
+
 [구해줘코딩! React 기본 실습편]
 
 *실습 프로그램 설치 참고 자료 : 
