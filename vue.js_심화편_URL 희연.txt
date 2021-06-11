@@ -1,0 +1,5 @@
+- 심화편 1회 : https://youtu.be/FXN2TBzwCW0
+- 심화편 2회 : https://youtu.be/K66XPc2LQSg
+- 심화편 3회 : https://youtu.be/TjIN-H5AtW4
+
+  https://github.com/joshua1988/vue-advanced-lgcns/tree/main/project
